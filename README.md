@@ -1,47 +1,100 @@
 # PROFIL SDN TEJA II
-## Data:
-- NPSN: 20246133
-- NSS: 101021607044
-- Alamat: Blok Desa, Desa Teja Kecamatan Rajagaluh Kabupaten Majalengka
 
-## Sejarah Berdiri
-SD Negeri Teja II Kecamatan Rajagaluh Kabupaten Majalengka didirikan pada tahun **1980**, di atas lahan seluas 550 meter persegi. 
+<div align="center">
 
-SDN Teja II merupakan salah satu **SD Inpres** (Instruksi Presiden) pada Masa Pemerintahan Orde Baru Tahun 1973-1983 yang di gagas oleh presiden Suharto. 
+<img src="https://github.com/sdnteja2/sdnteja2/blob/main/Logo%20Teja%202.png" alt="Logo SDN Teja II" width="200"/>
 
-Sekolah ini sudah mengalami beberapa kali renovasi dan pembangunan.
-Pada awal berdirinya bernama **SDN Indra**, kemudian berubah nama pada tahun 1997 menjadi SDN Teja II.
-## Letak Geografis
-Secara geografis SD Negeri Teja II terletak Desa Teja, Kecamatan Rajagaluh Kabupaten Majalengka. Yang berjarak 5,6 KM dari Pusat Kota Kecamatan Rajagaluh Kabupaten Majalengka -  Jawa Barat. [Dengan garis lintang & bujur pada -6.822613981177351 & 108.34629809701403](https://www.google.co.id/maps/dir/58GW%2BXG3+Sdn+Teja+II,+Blok+nanggerang,+Teja,+Kec.+Rajagaluh,+Kabupaten+Majalengka,+Jawa+Barat+45472/''/@-6.8225332,108.3112761,13z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x2e6f23e3619f93c9:0x1c4e3d2ede455603!2m2!1d108.3462959!2d-6.8226197!1m5!1m1!1s0x2e6f23e3619f93c9:0x1c4e3d2ede455603!2m2!1d108.3462959!2d-6.8226197?expflags=enable_star_based_justifications:true "Dengan garis lintang & bujur pada -6.822613981177351 & 108.34629809701403")
+![SDN Teja II](https://img.shields.io/badge/SDN%20TEJA%20II-Berkibar%20%26%20Berjiwa%20Pancasila-red?style=for-the-badge)
 
-## Visi & Misi 
-### Visi SDN Teja II
-Terwujudnya pribadi yang beriman dan bertakwa kepada Tuhan Tang Maha Esa, berilmu, berkarakter, terampil, kreatif dan berprestasi  
-### Misi SDN Teja II
-Untuk mencapai visi tersebut melalui misi sebagai berikut:
-1. Menciptakan lingkungan sekolah yang bernuansa agamis, bersih dan sehat
-2. Meningkatkan kegiatan ibadah melalui kegiatan kultum dan Shalat berjamaah
-3. Mengoptimalkan guru profesional dan berdedikasi tinggi sehingga peserta didik mempunyai  kompetensi yang baik dan berkarakter
-4. Menyelenggarakan pendidikan, pelatihan dan pembinaan berdasarkan bakat, minat dan kreativitas peserta didik melalui ekstrakurikuler
-5. Meningkatkan prestasi peserta didik degan mengoptimalkan proses pembelajaran yang efektif dan efisien.
+**Sekolah Dasar Negeri Teja II**  
+Kecamatan Rajagaluh, Kabupaten Majalengka
 
-## Tujuan SD Negeri Teja II
-1. Terciptanya lingkungan yang agamis, bersih dan sehat
-2. Meningkatnya ketakwaan peserta didik terhadap Tuhan Yang Maha Esa
-3. Berkembangnya profesionalisme tenaga pendidik
-4. Terbentuknya pribadi peserta didik yang cerdas, terampil, kreatif, aktif dan berkarakter
-5. Meningkatnya jumlah peserta didik yang melanjutkan pendidikan ke jenjang yang lebih tinggi
+</div>
 
-# PENGEMBANGAN DALAM TEKNOLOGI
+---
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,php,dart,figma,js,tailwind,nuxtjs)](https://skills.thijs.gg)
-# BAHASA PEMOGRAMAN YANG DIGUNAKAN
+## 📋 Data Sekolah
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdnteja2&langs_count=4)](https://github.com/sdnteja2/github-readme-stats)
+| Informasi | Detail |
+|-----------|--------|
+| **NPSN** | 20246133 |
+| **NSS** | 101021607044 |
+| **Alamat** | Blok Desa, Desa Teja, Kecamatan Rajagaluh, Kabupaten Majalengka |
+| **Koordinat** | [-6.822614, 108.346298](https://www.google.co.id/maps/dir/58GW%2BXG3+Sdn+Teja+II,+Blok+nanggerang,+Teja,+Kec.+Rajagaluh,+Kabupaten+Majalengka,+Jawa+Barat+45472/''/@-6.8225332,108.3112761,13z/) |
+| **Luas Lahan** | 550 m² |
 
-<h3 align="center">A passionate frontend developer from India</h3>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 📜 Sejarah Berdiri
+
+SD Negeri Teja II Kecamatan Rajagaluh Kabupaten Majalengka didirikan pada tahun **1980**, di atas lahan seluas 550 meter persegi.
+
+SDN Teja II merupakan salah satu **SD Inpres** (Instruksi Presiden) pada Masa Pemerintahan Orde Baru Tahun 1973-1983 yang digagas oleh Presiden Suharto.
+
+Sekolah ini sudah mengalami beberapa kali renovasi dan pembangunan. Pada awal berdirinya bernama **SDN Indra**, kemudian berubah nama pada tahun 1997 menjadi **SDN Teja II**.
+
+---
+
+## 🗺️ Letak Geografis
+
+Secara geografis SD Negeri Teja II terletak di Desa Teja, Kecamatan Rajagaluh, Kabupaten Majalengka, berjarak **5,6 KM** dari Pusat Kota Kecamatan Rajagaluh, Kabupaten Majalengka - Jawa Barat.
+
+**Koordinat:** -6.822613981177351, 108.34629809701403
+
+---
+
+## 🎯 Visi Sekolah
+
+<div align="center">
+
+### **"BERKIBAR dan Berjiwa Pancasila"**
+
+> "Menjadi sekolah yang BERKIBAR: Beriman, Edukatif, Rasional, Kreatif, Inspiratif, Berkolaborasi, Aktif, dan Responsif dalam membentuk generasi unggul"
+
+</div>
+
+### Penjabaran BERKIBAR
+
+| Huruf | Makna | Deskripsi |
+|:-----:|-------|-----------|
+| **B** | 🙏 **Beriman** | Terwujudnya keimanan dan ketakwaan yang kokoh |
+| **E** | 📚 **Edukatif** | Terbentuknya kematangan akademik dan karakter |
+| **R** | 🧠 **Rasional** | Terbentuknya pola pikir yang kritis dan logis |
+| **K** | 💡 **Kreatif** | Terwujudnya beragam inovasi dan daya cipta |
+| **I** | ⭐ **Inspiratif** | Terwujudnya keteladanan dalam sikap dan prestasi |
+| **B** | 🤝 **Berkolaborasi** | Terjalinnya kerjasama dan solidaritas yang kuat |
+| **A** | 🎯 **Aktif** | Terbangunnya partisipasi aktif yang menyeluruh |
+| **R** | 🔄 **Responsif** | Terbentuknya kemampuan adaptasi terhadap zaman |
+
+> Visi ini dirancang untuk membentuk generasi unggul yang tidak hanya cerdas secara akademik, tetapi juga memiliki karakter kuat yang berlandaskan nilai-nilai Pancasila. Setiap elemen BERKIBAR merepresentasikan pilar penting dalam pengembangan peserta didik yang holistik dan siap menghadapi tantangan zaman.
+
+---
+
+## 🎯 Misi Sekolah
+
+1. **Menanamkan nilai spiritual dan keimanan** melalui program rutin dan budaya sekolah
+
+2. **Mengoptimalkan pembelajaran inovatif** bagi daya pikir kritis dan kreatif
+
+3. **Mengembangkan kegiatan kolaboratif**, kepemimpinan, dan komunikasi efektif
+
+4. **Memperkuat pola hidup sehat** fisik dan mental seluruh warga sekolah
+
+5. **Mendorong jiwa kemandirian**, adaptif, dan rasa cinta tanah air dalam setiap kegiatan
+
+---
+
+## 🎯 Tujuan Sekolah
+
+1. 🙏 **Menghasilkan lulusan beriman**, berakhlak mulia, cinta tanah air, dan sehat jasmani
+
+2. 🧠 **Membentuk siswa yang kritis**, kreatif, dan inovatif pada setiap aspek kehidupan
+
+3. 🤝 **Menumbuhkan kemampuan kolaboratif** dan komunikasi yang kuat
+
+4. 💪 **Meningkatkan kesehatan fisik dan mental** secara menyeluruh
+
+5. 🌍 **Mempersiapkan lulusan yang mandiri** dan siap menghadapi tantangan global
+
+---
 
